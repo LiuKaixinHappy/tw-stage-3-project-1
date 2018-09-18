@@ -5,7 +5,8 @@
 - 用React重构[TODO LIST](https://github.com/LiuKaixinHappy/tw-stage-2-project-1)的前端
 
 ## 要求
-- **新建一个仓库，用react新建一个前端工程，**完成TODO LIST的全部逻辑，UI可以自定义，推荐使用[Material-UI](https://material-ui.com/getting-started/installation/)
+
+- 自己**新建一个仓库，用react新建一个前端工程**，完成TODO LIST的全部逻辑，UI可以自定义，推荐使用[Material-UI](https://material-ui.com/getting-started/installation/)
 - 服务器端和数据库逻辑已写好，克隆本项目，启动服务器即可测试，接口如下：
 
 ||添加todo|
